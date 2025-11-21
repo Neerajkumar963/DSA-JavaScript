@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./Assets/banner.png" alt="JavaScript DSA Banner" width="100%">
+</p>
+
+
+
 # DSA-JavaScript
 
 **Data Structures & Algorithms in JavaScript**  

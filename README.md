@@ -61,7 +61,7 @@ DSA-JavaScript/
    ```bash
    git clone https://github.com/Neerajkumar963/DSA-JavaScript.git
    ```
-3. If you want to contribute, fork the repo and send a pull request.  
+3. If you want to contribute, fork the repo and send a pull request
     
        
 

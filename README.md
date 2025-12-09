@@ -76,6 +76,6 @@ Neeraj Kumar — Front-End enthusiast & DSA learner
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="15"/> LinkedIn: [linkedin.com/in/neeraj-kumar-0273b2344](https://www.linkedin.com/in/neeraj-kumar-0273b2344/overlay/contact-info/)
 
 ## Support & Thanks
-If you find this repo useful, please give it a star ⭐ and share it with others! Let’s grow together.
+If you find this repo useful, please give it a star ⭐ and share it with others! Let’s grow together
 
 Made with ❤️ in Punjab, India
